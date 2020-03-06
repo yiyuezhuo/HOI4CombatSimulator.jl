@@ -35,14 +35,36 @@ function DivisionTemplate(unitList::Array{Unit,1})
     return DivisionTemplate(;unitList=unitList, kw_dict...)
 end
 
+function DivisionTemplate(config_list::Tuple{Unit,Int64}...)
+    unit_list = Array{Unit,1}()
+    for (unit, count) in config_list
+        for i in 1:count
+            push!(unit_list, unit)
+        end
+    end
+    DivisionTemplate(unit_list)
+end
+
 function Base.show(io::IO, ::MIME"text/plain", div::DivisionTemplate)
-    print("uniList: ")
-    print(join([unit.Unit for unit in div.unitList], ","))
+    print(io, "uniList: ")
+    print(io, join([unit.Unit for unit in div.unitList], ","))
     for fn in fieldnames(typeof(div))
         if fn == :unitList
             continue
         end
-        print(" $fn: $(getproperty(div, fn)),")
+        print(io, " $fn: $(getproperty(div, fn)),")
     end
 end
 
+function Division(template::DivisionTemplate)
+    Division(template, template.HP, template.Org)
+end
+
+function Base.show(io::IO, media::MIME"text/plain", div::Division)
+    f(x) = round(x, digits=1)
+    
+    println(io, "HP: $(f(div.HP))/$(f(div.T.HP))")
+    println(io, "Org: $(f(div.Org))/$(f(div.T.Org))")
+    print(io, "T:")
+    show(io, media, div.T)
+end

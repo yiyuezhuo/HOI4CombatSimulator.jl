@@ -57,7 +57,7 @@ Base.@kwdef struct DivisionTemplate # kwdef make it possible to use keyword spec
 end
 
 mutable struct Division
-    template::DivisionTemplate # max HP, max Org, etc...
+    T::DivisionTemplate # template, max HP, max Org, etc...
     HP::Float64
     Org::Float64
 end
