@@ -1,0 +1,3533 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Land units - Hearts of Iron 4 Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Land_units","wgTitle":"Land units","wgCurRevisionId":35637,"wgRevisionId":35637,"wgArticleId":339,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Potentially outdated","1.5","Units"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Land_units","wgRelevantArticleId":339,"wgRequestId":"5470994c224ce72f24f2e9f9","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgWikiEditorEnabledModules":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}"});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","mmv.head","mmv.bootstrap.autostart","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=Land_units&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/index.php?title=Land_units&amp;action=edit"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Hearts of Iron 4 Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://hoi4.paradoxwikis.com/api.php?action=rsd"/>
+<link rel="license" href="https://central.paradoxwikis.com/Central:Copyrights"/>
+<link rel="alternate" type="application/atom+xml" title="Hearts of Iron 4 Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Land_units rootpage-Land_units skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><div id="localNotice" lang="en" dir="ltr"><div class="mw-parser-output"><div class="eu4box"><b>Want a chance to win some prizes while helping update the wiki? Then check out the wiki's <a href="/Hearts_of_Iron_4_Wiki:Contest" title="Hearts of Iron 4 Wiki:Contest">contest</a> page.</b></div>
+</div></div></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Land units</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Hearts of Iron 4 Wiki</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><link rel="stylesheet" href="https://d25yha10orzq01.cloudfront.net/cookie-widget/cookie-widget.css" media="all"><script src="//d25yha10orzq01.cloudfront.net/cookie-widget/cookie-widget_new_v2.js?v=125" defer></script><div class="mw-parser-output"><div class="eu4box metadata ambox ambox-content mbox-text" style="float:right; clear:right; width:330px; font-size:80%;">
+<p>Please help with verifying or updating older sections of this article.<br />At least some were last verified for <a href="/Hearts_of_Iron_4_Wiki:Versioning" title="Hearts of Iron 4 Wiki:Versioning">version</a> 1.5.
+</p>
+</div>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Nomenclature"><span class="tocnumber">1</span> <span class="toctext">Nomenclature</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Division"><span class="tocnumber">1.1</span> <span class="toctext">Division</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Battalion"><span class="tocnumber">1.2</span> <span class="toctext">Battalion</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Battalion_group_and_regiment"><span class="tocnumber">1.3</span> <span class="toctext">Battalion group and regiment</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Support_company"><span class="tocnumber">1.4</span> <span class="toctext">Support company</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Statistics"><span class="tocnumber">2</span> <span class="toctext">Statistics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Base_stats"><span class="tocnumber">2.1</span> <span class="toctext">Base stats</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Combat_stats"><span class="tocnumber">2.2</span> <span class="toctext">Combat stats</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Other_Stats"><span class="tocnumber">2.3</span> <span class="toctext">Other Stats</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Equipment_cost"><span class="tocnumber">2.4</span> <span class="toctext">Equipment cost</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Terrain_modifiers"><span class="tocnumber">2.5</span> <span class="toctext">Terrain modifiers</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Unit_types"><span class="tocnumber">3</span> <span class="toctext">Unit types</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Equipment"><span class="tocnumber">4</span> <span class="toctext">Equipment</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Self-Propelled_Variants"><span class="tocnumber">5</span> <span class="toctext">Self-Propelled Variants</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Division_Examples"><span class="tocnumber">6</span> <span class="toctext">Division Examples</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Nomenclature">Nomenclature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Land_units&amp;action=edit&amp;section=1" title="Edit section: Nomenclature">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The terms used in the game (e.g. regiment, brigade) have historically had different meanings in the militaries of different countries. This section explains the significance of these terms as they are defined for this game.
+</p>
+<h3><span class="mw-headline" id="Division">Division</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Land_units&amp;action=edit&amp;section=2" title="Edit section: Division">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dd></dd>
+<dd><i>Main article: <a href="/Division" title="Division">Division</a></i><br /></dd></dl>
+<p>Armies are composed of <i>divisions</i>, which is the smallest unit a player can directly control.
+</p>
+<h3><span class="mw-headline" id="Battalion">Battalion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Land_units&amp;action=edit&amp;section=3" title="Edit section: Battalion">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Each division consists of 1-25 battalions - also sometimes called line battalions. This is the main fighting force, and the primary source of most statistics. The primary drain of manpower and equipment.
+</p>
+<h3><span class="mw-headline" id="Battalion_group_and_regiment">Battalion group and regiment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Land_units&amp;action=edit&amp;section=4" title="Edit section: Battalion group and regiment">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>All battalions belong to a specific classification or group, such as "Infantry Battalion", "Mobile Battalion" and "Armored Battalion".
+</p><p>Regiments are the "columns" in the template designer. Battalions from different groups must be in different regiments (columns). There is no other effect of regiments. And, as there are 5 regiments/columns but only 3 groups, it is never an issue. There are many other reasons not to use all 25 battalion slots and/or mix more then 1-2 battalion Groups anyway.
+</p>
+<h3><span class="mw-headline" id="Support_company">Support company</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Land_units&amp;action=edit&amp;section=5" title="Edit section: Support company">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In addition to the battalions, a division may have up to 5 support companies. These often provide bonuses that cannot be otherwise obtained. Support companies can be roughly put into 4 unofficial groups:
+</p>
+<ul><li>Artillery, which provides limited artillery tree capabilities for divisions that cannot afford to bring mainline artillery battalions along.</li>
+<li>Basic support, which only needs support equipment</li>
+<li>Motorized support, which needs support Equipment and some motorized</li>
+<li>Recon, which can be Cavalry (infantry weapons, support), motorized (infantry weapons, support, and motorized), armored car, or light tank</li></ul>
+<h2><span class="mw-headline" id="Statistics">Statistics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Land_units&amp;action=edit&amp;section=6" title="Edit section: Statistics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Based on the Battalions, each division has a number of values. The calculation of the final values ranges from simple Addition (Summation), Averages, and Worst to "it is complicated" (Armor and Piercing).
+</p><p>Do keep in mind that some values are also defined by the <b>actual</b> fielded equipment. The Division designer will simply assume the "best" equipment is used. But between equipment loss and capture as well as limited production relative to casualties, often much older gear might be pulled out of storage. While that will result in every soldier having something to fight with, it will drastically reduce the values. And of course for some divisions, intentional limiting of the usable equipment might be advisable.  
+</p><p>Most of these stats can be improved by building an armored variant (includes tanks and other armored derivatives).  However, be aware that increasing one stat will adversely affect a different stat.  Reference <a href="/Variant" title="Variant">Variant</a> and <a href="/Variant#Upgrading" title="Variant">Variant Upgrading</a> and <a href="/Variant#Armored_units" title="Variant">Variant Armored units</a>.  Researching <a href="/Land_doctrine" title="Land doctrine">Land doctrine</a> can also increase stats. 
+</p>
+<h3><span class="mw-headline" id="Base_stats">Base stats</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Land_units&amp;action=edit&amp;section=7" title="Edit section: Base stats">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><b>Maximum speed.</b> The division travels at the speed of its <b>slowest</b> battalion. Support companies are not counted in this calculation; they are assumed to have the same mobility as the rest of the division.</li>
+<li><b>HP.</b> "HP" is an abbreviation for "hit points." This is the ability to absorb damage and is largely a function of manpower and role.  HP (manpower &amp; role) and equipment are also tied to "strength" in the game.  Division HP represents how many hits or <a href="/Land_battle#Damage_dealing" title="Land battle">damage</a> the division can take before it is destroyed and is the <b>sum</b> of all the HP of its battalions and companies.  Battalions of Mechanized Infantry have 30 HP; Cavalry, Infantry, and Motorized Infantry have 25 HP; Paratroopers 22 HP; Mountain Infantry and Marines 20 HP; Tanks 2 HP; and line artillery of all kinds have 0.6 HP. Among support elements, Recon, Engineers, Logistics and Field Hospitals have 2 HP; Military Police, Maintenance and Signal companies have 1 HP; and Support Artillery, Anti-Tank, and Anti-Air have 0.2 HP. When a division takes damage to its HP, the combat stats are reduced proportionally; for example, a division at half of its maximum HP can only use half of its maximum possible attacks or defenses in combat. What is obvious from these numbers is that tanks and artillery are relatively fragile when it comes to absorbing damage, and it is high-manpower battalions such as infantry of various kinds that enable divisions to take serious damage and continue fighting until their organization is gone.  Reference <a href="/Land_warfare#Damage_dealing" title="Land warfare">Land warfare Damage dealing</a>.</li>
+<li><b>Organization.</b> Known as "morale" in previous games, organization is the readiness of a division to perform combat (the willingness of a unit to either continue attacking or to continue holding the province that they are defending).  Organization of a division is the <b>average</b> of all the battalions and companies.  Since infantry battalions have much higher organization than other battalion types, it is generally a good idea to mix in some infantry with them; this is  especially true of the harder divisions such as tanks (try to use motorized or mechanized battalions as leg infantry will slow your movement speed).  Moving a division causes organization loss at the rate of <span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>-0.2</b></span> organization per hour (reference <a href="/Defines#NMilitary" title="Defines">Defines NMilitary HOURLY_ORG_MOVEMENT_IMPACT</a>). Organization may also be lost through attrition or lack of supply (reference <a href="/Attrition_and_accidents#Organization_loss" title="Attrition and accidents">Attrition and accidents Organization loss</a> and <a href="/Logistics#Out_of_supply_penalties" title="Logistics">Logistics Out of supply penalties</a>).  A division without organization cannot operate as it is supposed to; it cannot stay in combat or move properly. Battles are always battles of Organization depletion (reference <a href="/Land_warfare#Damage_dealing" title="Land warfare">Land warfare Damage dealing</a>) and, depending on who the attacker is, reaching 0 has one of two effects:
+<ul><li>If the attacker, then the division will stop attacking and will either stay in, or return to, the region it came from. Any movement progress is lost. It cannot be ordered to attack again until Organization has recovered a decent amount.</li>
+<li>If the defender, then the division will try to flee - leaving the province to the nearest friendly one. If it cannot leave the province, then it will simply be taken out of the fight until all combat in that province ceases or it is overrun.</li></ul></li>
+<li><b>Recovery rate.</b> All divisions that are not in combat regenerate Organization at a fixed rate. This stat is <i>additional</i> regeneration on top of that, allowing a division to be better prepared for more combat. A division can suffer from a recovery rate penalty if it lacks supply.  Reference <a href="/Logistics#Out_of_supply_penalties" title="Logistics">Logistics Out of supply penalties</a>.  The <b>average</b> of all battalions and companies.</li>
+<li><b>Recon.</b> Contributes to reconnaissance during battle. In any combat the side with a reconnaissance advantage (from divisions and the general) over their enemy has more information about how their adversaries' forces are deployed and are more likely to pick better tactics for the day (reference <a href="/Combat_tactics" title="Combat tactics">Combat tactics</a>).  Adding a recon support company will give an extra reconnaissance points bonus to the <a href="/Command_group#Commander" title="Command group">commander</a> in charge of your division during battle.  Reference <a href="/Support_Companies_technology" class="mw-redirect" title="Support Companies technology">Support Companies technology</a>.</li>
+<li><b>Suppression.</b> Ability to suppress local resistance (reference <a href="/Occupation" title="Occupation">Occupation</a>).  How well the division will stop the formation of partisan forces and their activities. The <b>sum</b> of all battalions and companies.</li>
+<li><b>Weight.</b> How large or "heavy" the unit is. The higher the number, the more convoys are needed when in naval transfer and the more planes are needed to drop paratroopers. The <b>sum</b> of all battalions and companies.</li>
+<li><b>Supply use.</b> How much supply the unit consumes per day. Please read <a href="/Supply" class="mw-redirect" title="Supply">Supply</a> on the significance of this. Adding a Logistics support company will reduce your division's daily supply consumption.   Reference <a href="/Support_Companies_technology" class="mw-redirect" title="Support Companies technology">Support Companies technology</a>.  The <b>sum</b> of all battalions and companies.</li>
+<li><b>Reliability.</b> Reliability is the resistance to military equipment breakdown and subsequent loss.  Higher reliability reduces the chance of equipment breakdown and loss during combat or from attrition. Reference <a href="/Land_warfare#Damage_dealing" title="Land warfare">Land warfare Damage dealing</a> and <a href="/Attrition_and_accidents" title="Attrition and accidents">Attrition and accidents</a>.  Incorporating a Maintenance support company (reference <a href="/Support_Companies_technology" class="mw-redirect" title="Support Companies technology">Support Companies technology</a>) into your division will grant a bonus to each equipment type's reliability.</li>
+<li><b>Trickleback.</b> Normally Manpower that is lost in combat, just vanishes. While the Manpower pool does regrow to it's maximum, this is very slow. Trickleback is a portion of casualties that can be saved and returned to the Manpower pool, conserving manpower.  This is provided by the Field Hospital support company.  Reference <a href="/Support_Companies_technology" class="mw-redirect" title="Support Companies technology">Support Companies technology</a>.</li>
+<li><b>Exp. loss.</b> How much <a href="/Experience#Unit_experience" title="Experience">experience</a> is lost when a unit suffers casualties. A high negative is better. A Field Hospital support company can reduce experience loss from casualties.  Reference <a href="/Support_Companies_technology" class="mw-redirect" title="Support Companies technology">Support Companies technology</a>.  Note that there is additional XP loss for bringing in reinforcements.</li></ul>
+<h3><span class="mw-headline" id="Combat_stats">Combat stats</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Land_units&amp;action=edit&amp;section=8" title="Edit section: Combat stats">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><b>Soft attack.</b> How many attacks made each hour against the soft parts of an enemy division. In combat, this stat gives the number of attacks the unit can make against a target with low hardness (such as infantry or cavalry) instead of high hardness, armored targets (such as tanks and tank variants).  The <b>sum</b> of all battalions and companies.</li>
+<li><b>Hard attack.</b> How many attacks made each hour against the hard parts of an enemy division. In combat, this stat gives the number of attacks the unit can make against a target with high hardness (such as tanks and tank variants).  The <b>sum</b> of all battalions and companies.</li>
+<li><b>Air attack.</b> How much damage a unit can do against enemy airplanes.  It can reduce the effectiveness of enemy aircraft attacking your division (capability of shooting down enemy aircraft).  High air attack can also help to counter enemy air superiority effects. The <b>sum</b> of all battalions and companies.</li>
+<li><b>Defense.</b> Known as "defensiveness" in previous games. This stat represents the number of defenses the division has when defending a province, that is, how many attacks it can avoid. When a division has no defenses left, it is more probable that it is hit when in combat and cannot hold its defensive position as well. Higher defense allows a division to hold the line longer with fewer casualties. <b>Sum</b> of all battalions and companies.</li>
+<li><b>Breakthrough.</b> Known as "toughness" in previous games. This works like defense, except it applies when the division is attacking a province. This stat represents the number of defenses the division has when attacking, that is, how many of the defender's attacks it can avoid. When the division has no defenses left, it is more probable that the division will be hit when in combat and cannot sustain the offensive as well.  Higher breakthrough allows a division to continue attacking the line more effectively. The <b>sum</b> of all battalions and companies.</li>
+<li><b>Armor.</b> It halves the number of soft and hard attacks made against the division if the attacking division's piercing is less than the defending division's armor. Higher armor than the enemy's piercing will also increase the number of unit attacks in combat and change the organization damage dice roll per attack from 1d4 to 1d6 as the unit can move around the battlefield more freely without getting pinned or damaged.  A division's armor is equal to 30% of the highest armor in the division plus 70% of the average armor in the division. Armor is not a property of unit type, only of its equipment.</li>
+<li><b>Piercing.</b> Represents the ability of a division to pierce armor and pin down armored forces, restricting the movement. If the value is higher than the enemy's armor value, then the division suffers no penalty to its attacks. A division's piercing is equal to 40% of the highest piercing in the division plus 60% of the weighted-average piercing of all battalions in the division.</li>
+<li><b>Initiative.</b> Higher initiative speeds up battle planning, so 20% initiative, as from a level 1 signals company, speeds up 2%/day planning to 2.4%/day. Higher initiative also increases the chance of a division joining a battle from the reserves.</li>
+<li><b>Entrenchment.</b> Represents the ability of a unit to build temporary defensive structures like trenches and pick favorable defensive positions like hills, to better defend against an enemy attack. Entrenchment level is mentioned in the army selection. Divisions build up entrenchment hourly when not engaged in combat and stationary (not moving). It provides a massive bonus when defending the province, going as far as an outright force multiplier.</li>
+<li><b>Combat width.</b> Represents the room that the division takes up while fighting at the front line. In order to fit into battle, the division needs to fit into the combat width provided by the battlefield (typically 80 width). The less width that each division takes, the more divisions that can fire upon the enemy at the same time. However, making many thin divisions also has it's tradeoffs. Different battalion types increase the combat width of a division by a different amount.  For example, infantry and armored battalions use 2 width, artillery battalions use 3 width, and anti-tank and anti-air battalions use 1 width. Support companies do not increase the combat width of a division (see <a href="/Divisions" class="mw-redirect" title="Divisions">Divisions</a> for details). The Mass Assault doctrine tree has options that reduce the combat width of infantry battalions (from 2 width to 1.6 width). The Field Marshal Offensive Doctrine trait also reduces combat width when on the attack.  The <b>sum</b> of all Battalions.  Combat width notes:
+<ul><li>The normal maximum combat width provided by the battlefield is 80.</li>
+<li>If attacking divisions come from more than one province, then another 40 width is added to the battlefield for each province.</li>
+<li>Due to the above battlefield width numbers, divisions widths of 10, 20, and 40 tend to be common. However, numbers divisible by 4 will also work well.</li>
+<li>Only full divisions can join a fight.</li>
+<li>Fielding more divisions than the battlefield width supports will result in penalties.  When this happens, the Battle Interface will automatically put these extra divisons into reserve.</li>
+<li>Frontage Reduction can reduce the amount of width taken up by divisions, thus allowing more to be used or slightly bigger divisions to be fielded.</li></ul></li>
+<li><b>Hardness.</b> Represents what proportion of the division is made up of battalions which are armored and protected, that is, how "hard" (armored) the division is—the proportion of hard attacks to soft attacks it receives. Different battalions have different levels of hardness, for example, infantry being very "soft" (0%), mechanized infantry being quite hard (60-84%) and super heavy tanks being very hard (99%). Multiply this with the attacker's hard attack and multiply 1-hardness (i.e. softness) with the attacker's soft attack to find out how many attacks are made against the division.  Divisions with high hardness will suffer more hard attacks and fewer soft attacks. Divisions with low hardness will suffer more soft attacks and fewer hard attacks.</li></ul>
+<h3><span class="mw-headline" id="Other_Stats">Other Stats</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Land_units&amp;action=edit&amp;section=9" title="Edit section: Other Stats">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/Fuel" title="Fuel">Fuel</a> capacity: How much fuel a unit can store.  Higher fuel capacity means that the unit will be able to operate at full capacity longer when it lacks fuel supply.</li>
+<li>Fuel Usage: How much fuel a unit uses while it is operating.  Land units with fuel consumption will consume fuel in idle as well, but combat, movement, or training will further increase the consumption.</li>
+<li>Paradrop: A simple true/false check if the division can be paradropped. For it to be true, all Battalions must be Paratroopers. However, Companies can be mixed in freely.</li>
+<li>Special Forces Cap: All Special Forces Battalions are under a country cap. Divisions cannot be changed, trained, given a different template or have their template adjusted if that would result in exceeding that cap.  Reference <a href="/Infantry_technology#Special_forces" title="Infantry technology">Infantry technology Special forces</a>.</li></ul>
+<h3><span class="mw-headline" id="Equipment_cost">Equipment cost</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Land_units&amp;action=edit&amp;section=10" title="Edit section: Equipment cost">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Each division will require a certain amount of <a href="/Manpower" title="Manpower">manpower</a>, <a href="/Equipment" title="Equipment">equipment</a>, and training time to produce. Most of these values are simply a sum.
+</p><p>However, training time is the exception. It is based on the longest training time of any Battalion or Company.  Reference <a href="/Army_planner#Training" title="Army planner">Army planner Training</a> and <a href="/Command_Group#Exercise" class="mw-redirect" title="Command Group">Command Group Exercise</a>.
+</p>
+<h3><span class="mw-headline" id="Terrain_modifiers">Terrain modifiers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Land_units&amp;action=edit&amp;section=11" title="Edit section: Terrain modifiers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dd></dd>
+<dd><i>Main article: <a href="/Terrain" title="Terrain">Terrain</a></i><br /></dd></dl>
+<p><i>Terrain</i> can influence the performance of different unit types in offense, defense and even movement. Terrain modifiers are averaged between all Battalions, but the Support Companies (Engineer and Recon only) are additive.
+</p>
+<h2><span class="mw-headline" id="Unit_types">Unit types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Land_units&amp;action=edit&amp;section=12" title="Edit section: Unit types">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>NOTE: The table below is not fully accurate.  The table below is prepared using first generation equipment. Detailed information for subsequent generations will be found in <a href="/Land_units_by_unit" title="Land units by unit">Land units by unit</a> and for a comparison of equipment of equivalent generation: <a href="/Land_units_by_year" title="Land units by year">Land units by year</a>. Generally non-combat statistics are defined per battalion. But combat statistics are a function of equipment and thus not static. Additionally, battalions add modifiers to its equipment. For example, a Marine combat battalion adds +30% Breakthrough to its infantry equipment while an artillery support company has a -40% Soft Attack, -40% Hard Attack, -40% Defense, and -40% Breakthrough to its artillery equipment. </i>
+</p><p>Things are a little more complicated for Mechanized battalions. They use both Weapon and Mechanized equipment and the stats are a sum of both pieces of equipment (with a 10% bonus to Weapon Soft Attack and 500% bonus to Weapon Hard Attack).<i></i>
+</p><p>Anti-air, anti-tank, and artillery are available as battalions placed in the brigade columns, or as <a href="/Division#Support_Companies" title="Division">support companies</a> in the support column. Support companies of AA, AT, or Arty have fewer guns than line battalions. Divisions can have both support and line versions. However, since a line battalion puts out more firepower than a smaller support unit, many commanders would prefer to have the extra firepower of a full battalion and leave the support slot open for a specialist company. 
+</p>
+<table class="wikitable sortable">
+<tbody><tr>
+<th rowspan="2">Category
+</th>
+<th rowspan="2">Unit
+</th>
+<th rowspan="2">Icon
+</th>
+<th rowspan="2">NATO Symbol
+</th>
+<th colspan="8">Base
+</th>
+<th colspan="3">Cost
+</th>
+<th rowspan="2">Equipment Modifier
+</th>
+<th rowspan="2"><span class="explain" title="For land doctrine and other effects.">Category</span>
+</th>
+<th colspan="12">Equipment Stats (for most basic equipment, advanced versions here: <a href="/Equipment" title="Equipment">Equipment</a>/<a href="/Land_units_by_year" title="Land units by year">Land units by year</a>)
+</th>
+<th rowspan="2">Unit
+</th></tr>
+<tr>
+<th>HP
+</th>
+<th>Org.
+</th>
+<th>Recov.
+</th>
+<th>Suppr.
+</th>
+<th>Weight
+</th>
+<th>Supply
+</th>
+<th>Width
+</th>
+<th>Special Effects
+</th>
+<th><a href="/Manpower" title="Manpower"><img alt="Manpower" src="/images/thumb/0/0c/Manpower.png/22px-Manpower.png" width="22" height="22" srcset="/images/0/0c/Manpower.png 1.5x" data-file-width="27" data-file-height="27" /></a><a href="/Manpower" title="Manpower">Manpower</a>
+</th>
+<th>Training
+</th>
+<th><a href="/Equipment" title="Equipment">Equip.</a>
+</th>
+<th>Speed
+</th>
+<th>Soft Atk.
+</th>
+<th>Hard Atk.
+</th>
+<th>Air Atk.
+</th>
+<th>Defense
+</th>
+<th>Breakthr.
+</th>
+<th>Armor
+</th>
+<th>Pierce
+</th>
+<th>Hardness
+</th>
+<th>Fuel Capacity
+</th>
+<th>Fuel Usage
+</th>
+<th>Prod Cost
+</th></tr>
+<tr>
+<td rowspan="9">Infantry
+</td>
+<td>Infantry
+</td>
+<td><a href="/File:Infantry.png" class="image"><img alt="Infantry.png" src="/images/9/9f/Infantry.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_infantry.png" class="image"><img alt="NATO infantry.png" src="/images/1/12/NATO_infantry.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+25.0</b></span>
+</td>
+<td>60
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.3</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+1.5</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.5</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.07</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>
+</td>
+<td>1000
+</td>
+<td>90
+</td>
+<td>100 Infantry Equipment
+</td>
+<td>
+</td>
+<td>Front line, foot infantry, all infantry, all army
+</td>
+<td>4.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+3.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.5</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+20.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>1</b></span>
+</td>
+<td>0%
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+43.0</b></span>
+</td>
+<td>Infantry
+</td></tr>
+<tr>
+<td>Bicycle
+</td>
+<td><a href="/File:Bicycle_Battalion.png" class="image"><img alt="Bicycle Battalion.png" src="/images/a/a9/Bicycle_Battalion.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_bicycle.png" class="image"><img alt="NATO bicycle.png" src="/images/d/d5/NATO_bicycle.png" width="48" height="26" data-file-width="48" data-file-height="26" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+25.0</b></span>
+</td>
+<td>60
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.3</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.5</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.07</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>
+</td>
+<td>1000
+</td>
+<td>90
+</td>
+<td>100 Infantry Equipment, 10 Support Equipment
+</td>
+<td>+60% Max Speed
+</td>
+<td>Front line, foot infantry, all infantry, all army
+</td>
+<td>6.4
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+3.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.5</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+20.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>1</b></span>
+</td>
+<td>0%
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+83.0</b></span>
+</td>
+<td>Bicycle
+</td></tr>
+<tr>
+<td>Mountain
+</td>
+<td><a href="/File:Mountaineers.png" class="image"><img alt="Mountaineers.png" src="/images/3/38/Mountaineers.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_mountain.png" class="image"><img alt="NATO mountain.png" src="/images/3/3b/NATO_mountain.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+20.0</b></span>
+</td>
+<td>70
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.4</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.5</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.07</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>
+</td>
+<td>1000
+</td>
+<td>120
+</td>
+<td>140 Infantry Equipment
+</td>
+<td>+30% Breakthr.
+</td>
+<td>Front line, foot infantry, all infantry, all army
+</td>
+<td>4.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+3.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.5</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+20.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.6</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>1</b></span>
+</td>
+<td>0%
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+60.2</b></span>
+</td>
+<td>Mountain
+</td></tr>
+<tr>
+<td>Marines
+</td>
+<td><a href="/File:Marine.png" class="image"><img alt="Marine.png" src="/images/9/9d/Marine.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_marine.png" class="image"><img alt="NATO marine.png" src="/images/2/2a/NATO_marine.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+20.0</b></span>
+</td>
+<td>70
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.4</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.5</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.06</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>
+</td>
+<td>1000
+</td>
+<td>120
+</td>
+<td>150 Infantry Equipment
+</td>
+<td>+30% Breakthr.
+</td>
+<td>Front line, foot infantry, all infantry, all army
+</td>
+<td>4.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+3.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.5</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+20.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.6</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>1</b></span>
+</td>
+<td>0%
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+64.5</b></span>
+</td>
+<td>Marines
+</td></tr>
+<tr>
+<td>Paratrooper
+</td>
+<td><a href="/File:Paratroop.png" class="image"><img alt="Paratroop.png" src="/images/e/eb/Paratroop.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_paratroop.png" class="image"><img alt="NATO paratroop.png" src="/images/a/a6/NATO_paratroop.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+22.0</b></span>
+</td>
+<td>70
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.4</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.5</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.06</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>
+</td>
+<td>1000
+</td>
+<td>150
+</td>
+<td>130 Infantry Equipment
+</td>
+<td>
+</td>
+<td>Front line, foot infantry, all infantry, all army
+</td>
+<td>4.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+3.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.5</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+20.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>1</b></span>
+</td>
+<td>0%
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+55.9</b></span>
+</td>
+<td>Paratrooper
+</td></tr>
+<tr>
+<td>Anti-Tank
+</td>
+<td><a href="/File:Anti-tank.png" class="image"><img alt="Anti-tank.png" src="/images/1/1c/Anti-tank.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_anti-tank.png" class="image"><img alt="NATO anti-tank.png" src="/images/7/7f/NATO_anti-tank.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.6</b></span>
+</td>
+<td>0
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.5</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.10</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td>
+</td>
+<td>500
+</td>
+<td>120
+</td>
+<td>36 Anti-Tank
+</td>
+<td>
+</td>
+<td>Front line, line artillery, all army
+</td>
+<td>4.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+4.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+15.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+4.0</b></span>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>75</b></span>
+</td>
+<td>0%
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+144.0</b></span>
+</td>
+<td>Anti-Tank
+</td></tr>
+<tr>
+<td>Anti-Air
+</td>
+<td><a href="/File:Anti-air.png" class="image"><img alt="Anti-air.png" src="/images/e/e1/Anti-air.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_anti-air.png" class="image"><img alt="NATO anti-air.png" src="/images/a/a0/NATO_anti-air.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.6</b></span>
+</td>
+<td>0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.1</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.5</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.10</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td>
+</td>
+<td>500
+</td>
+<td>120
+</td>
+<td>30 Anti-Air
+</td>
+<td>
+</td>
+<td>line artillery, all army
+</td>
+<td>4.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+3.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+7.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+19.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+4.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>25</b></span>
+</td>
+<td>0%
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+120.0</b></span>
+</td>
+<td>Anti-Air
+</td></tr>
+<tr>
+<td>Artillery
+</td>
+<td><a href="/File:Artillery.png" class="image"><img alt="Artillery.png" src="/images/d/d8/Artillery.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_artillery.png" class="image"><img alt="NATO artillery.png" src="/images/a/a9/NATO_artillery.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.6</b></span>
+</td>
+<td>0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.1</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.5</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.20</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+3.0</b></span>
+</td>
+<td>
+</td>
+<td>500
+</td>
+<td>120
+</td>
+<td>36 Artillery
+</td>
+<td>
+</td>
+<td>line artillery, artillery, all army
+</td>
+<td>4.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+25.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+10.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+6.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>5</b></span>
+</td>
+<td>0%
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+126.0</b></span>
+</td>
+<td>Artillery
+</td></tr>
+<tr>
+<td>Rocket Artillery
+</td>
+<td><a href="/File:Rocket_artillery.png" class="image"><img alt="Rocket artillery.png" src="/images/d/df/Rocket_artillery.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_rocket_artillery.png" class="image"><img alt="NATO rocket artillery.png" src="/images/9/9d/NATO_rocket_artillery.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.6</b></span>
+</td>
+<td>0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.1</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.5</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.20</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+3.0</b></span>
+</td>
+<td>
+</td>
+<td>500
+</td>
+<td>120
+</td>
+<td>36 Rocket Artillery
+</td>
+<td>
+</td>
+<td><span class="explain" title="Yes they are not artillery but that does nothing.">line artillery, all army</span>
+</td>
+<td>4.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+30.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+12.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+9.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>2</b></span>
+</td>
+<td>0%
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+144.0</b></span>
+</td>
+<td>Rocket Artillery
+</td></tr>
+<tr>
+<td rowspan="9">Mobile Battalions
+</td>
+<td>Motorized Anti-Tank
+</td>
+<td><a href="/File:Motorized_anti-tank.png" class="image"><img alt="Motorized anti-tank.png" src="/images/thumb/0/0d/Motorized_anti-tank.png/60px-Motorized_anti-tank.png" width="60" height="33" srcset="/images/0/0d/Motorized_anti-tank.png 1.5x" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_motorized_anti-tank.png" class="image"><img alt="NATO motorized anti-tank.png" src="/images/thumb/d/de/NATO_motorized_anti-tank.png/47px-NATO_motorized_anti-tank.png" width="47" height="25" srcset="/images/d/de/NATO_motorized_anti-tank.png 1.5x" data-file-width="53" data-file-height="28" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.6</b></span>
+</td>
+<td>0
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.5</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.15</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td>
+</td>
+<td>500
+</td>
+<td>120
+</td>
+<td>36 Anti-Tank, 50 Motorized (Trucks)
+</td>
+<td>
+</td>
+<td>line artillery, all army
+</td>
+<td>12.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+4.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+15.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+4.0</b></span>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>75</b></span>
+</td>
+<td>10%
+</td>
+<td>46.08
+</td>
+<td>1.20
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+269.0</b></span>
+</td>
+<td>Motorized Anti-Tank
+</td></tr>
+<tr>
+<td>Motorized Anti-Air
+</td>
+<td><a href="/File:Motorized_anti-air.png" class="image"><img alt="Motorized anti-air.png" src="/images/thumb/5/5c/Motorized_anti-air.png/60px-Motorized_anti-air.png" width="60" height="33" srcset="/images/5/5c/Motorized_anti-air.png 1.5x" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_motorized_anti-air.png" class="image"><img alt="NATO motorized anti-air.png" src="/images/thumb/1/1d/NATO_motorized_anti-air.png/47px-NATO_motorized_anti-air.png" width="47" height="25" srcset="/images/1/1d/NATO_motorized_anti-air.png 1.5x" data-file-width="53" data-file-height="28" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.6</b></span>
+</td>
+<td>0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.1</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.5</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.15</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td>
+</td>
+<td>500
+</td>
+<td>120
+</td>
+<td>30 Anti-Air, 50 Motorized (Trucks)
+</td>
+<td>
+</td>
+<td>line artillery, all army
+</td>
+<td>12.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+3.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+7.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+19.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+4.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>25</b></span>
+</td>
+<td>10%
+</td>
+<td>46.08
+</td>
+<td>1.20
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+245.0</b></span>
+</td>
+<td>Motorized Anti-Air
+</td></tr>
+<tr>
+<td>Motorized Artillery
+</td>
+<td><a href="/File:Motorized_artillery.png" class="image"><img alt="Motorized artillery.png" src="/images/thumb/f/fc/Motorized_artillery.png/60px-Motorized_artillery.png" width="60" height="33" srcset="/images/f/fc/Motorized_artillery.png 1.5x" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_motorized_artillery.png" class="image"><img alt="NATO motorized artillery.png" src="/images/thumb/7/77/NATO_motorized_artillery.png/47px-NATO_motorized_artillery.png" width="47" height="25" srcset="/images/7/77/NATO_motorized_artillery.png 1.5x" data-file-width="53" data-file-height="28" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.6</b></span>
+</td>
+<td>0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.1</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.5</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.30</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+3.0</b></span>
+</td>
+<td>
+</td>
+<td>500
+</td>
+<td>120
+</td>
+<td>36 Artillery, 50 Motorized (Trucks)
+</td>
+<td>
+</td>
+<td>line artillery, all army
+</td>
+<td>12.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+25.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+10.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+6.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>5</b></span>
+</td>
+<td>10%
+</td>
+<td>46.08
+</td>
+<td>1.20
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+251.0</b></span>
+</td>
+<td>Motorized Artillery
+</td></tr>
+<tr>
+<td>Motorized Rocket Artillery
+</td>
+<td><a href="/File:Motorized_rocket_brigade.png" class="image"><img alt="Motorized rocket brigade.png" src="/images/5/56/Motorized_rocket_brigade.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_motorized_rocket_brigade.png" class="image"><img alt="NATO motorized rocket brigade.png" src="/images/0/09/NATO_motorized_rocket_brigade.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.6</b></span>
+</td>
+<td>0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.1</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.5</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.28</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+3.0</b></span>
+</td>
+<td>
+</td>
+<td>500
+</td>
+<td>120
+</td>
+<td>36 Rocket Artillery, 50 Motorized (Trucks)
+</td>
+<td>
+</td>
+<td>line artillery, all army
+</td>
+<td>12.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+30.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+12.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+9.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>2</b></span>
+</td>
+<td>10%
+</td>
+<td>46.00
+</td>
+<td>1.2
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+269.0</b></span>
+</td>
+<td>Motorized Rocket Artillery
+</td></tr>
+<tr>
+<td>Motorized Rocket (Katyusha)
+</td>
+<td><a href="/File:Motorized_rocket_brigade.png" class="image"><img alt="Motorized rocket brigade.png" src="/images/5/56/Motorized_rocket_brigade.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_motorized_rocket_brigade.png" class="image"><img alt="NATO motorized rocket brigade.png" src="/images/0/09/NATO_motorized_rocket_brigade.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.6</b></span>
+</td>
+<td>0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.1</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.5</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.28</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+3.0</b></span>
+</td>
+<td>
+</td>
+<td>500
+</td>
+<td>120
+</td>
+<td>20 Mot. R. Artillery, 15 Motorized (Trucks)
+</td>
+<td>
+</td>
+<td>line artillery, all army
+</td>
+<td>12.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+36.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+15.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+12.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>2</b></span>
+</td>
+<td>10%
+</td>
+<td>50.688
+</td>
+<td>1.32
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+277.5</b></span>
+</td>
+<td>Motorized Rocket (Katyusha)
+</td></tr>
+<tr>
+<td>Cavalry
+</td>
+<td><a href="/File:Cavalry.png" class="image"><img alt="Cavalry.png" src="/images/1/15/Cavalry.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_cavalry.png" class="image"><img alt="NATO cavalry.png" src="/images/b/b9/NATO_cavalry.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+25.0</b></span>
+</td>
+<td>70
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.3</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.5</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.12</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>
+</td>
+<td>1000
+</td>
+<td>120
+</td>
+<td>120 Infantry Equipment
+</td>
+<td>+60% Max Speed
+</td>
+<td>Front line, all army
+</td>
+<td>6.4
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+3.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.5</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+20.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>1</b></span>
+</td>
+<td>0%
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+51.6</b></span>
+</td>
+<td>Cavalry
+</td></tr>
+<tr>
+<td>Motorized Infantry
+</td>
+<td><a href="/File:Motorized.png" class="image"><img alt="Motorized.png" src="/images/3/39/Motorized.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_motorized.png" class="image"><img alt="NATO motorized.png" src="/images/4/49/NATO_motorized.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+25.0</b></span>
+</td>
+<td>60
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.3</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.75</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.11</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>
+</td>
+<td>1200
+</td>
+<td>90
+</td>
+<td>100 Infantry Equipment, 50 Motorized (Trucks)
+</td>
+<td>
+</td>
+<td>front line, all infantry, all army
+</td>
+<td>12.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+3.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.5</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+20.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>1</b></span>
+</td>
+<td>10%
+</td>
+<td>46.08
+</td>
+<td>1.20
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+168.0</b></span>
+</td>
+<td>Motorized Infantry
+</td></tr>
+<tr>
+<td>Mechanized
+</td>
+<td><a href="/File:Mechanized.png" class="image"><img alt="Mechanized.png" src="/images/3/39/Mechanized.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_mechanized.png" class="image"><img alt="NATO mechanized.png" src="/images/3/33/NATO_mechanized.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+30.0</b></span>
+</td>
+<td>60
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.3</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.18</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>
+</td>
+<td>1200
+</td>
+<td>120
+</td>
+<td>100 Infantry Equipment, 50 Mechanized
+</td>
+<td>+10% Soft Atk. and +400% Hard Atk.
+</td>
+<td>Front line, all infantry, all army
+</td>
+<td>8.0/10.0/12.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+3.3</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.5</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+46.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+6.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>10/15/20</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>12</b></span>
+</td>
+<td>60%<br />72%<br />84%
+</td>
+<td>92.16
+</td>
+<td>2.40
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+440.0</b></span>
+</td>
+<td>Mechanized
+</td></tr>
+<tr>
+<td>Armored Car
+</td>
+<td><a href="/File:Armored_Car.png" class="image"><img alt="Armored Car.png" src="/images/thumb/5/5b/Armored_Car.png/74px-Armored_Car.png" width="74" height="39" srcset="/images/5/5b/Armored_Car.png 1.5x" data-file-width="76" data-file-height="40" /></a>
+</td>
+<td><a href="/File:NATO_armored_car.png" class="image"><img alt="NATO armored car.png" src="/images/0/03/NATO_armored_car.png" width="50" height="27" data-file-width="47" data-file-height="25" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>10
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.3</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.5</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.8</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.14</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>
+</td>
+<td>500
+</td>
+<td>180
+</td>
+<td>60 Armored Cars
+</td>
+<td>
+</td>
+<td>Front line, all infantry, all army
+</td>
+<td>9.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+6.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+12.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>3</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>6</b></span>
+</td>
+<td>65%
+</td>
+<td>30.67
+</td>
+<td>0.8
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+240.0</b></span>
+</td>
+<td>Armored Car
+</td></tr>
+<tr>
+<td rowspan="21">Tanks
+</td>
+<td>Light Tank
+</td>
+<td><a href="/File:Light_tank.png" class="image"><img alt="Light tank.png" src="/images/7/74/Light_tank.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_light_tank.png" class="image"><img alt="NATO light tank.png" src="/images/4/4f/NATO_light_tank.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>10
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.3</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>2.5</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.20</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>
+</td>
+<td>500
+</td>
+<td>180
+</td>
+<td>60 Light Tanks
+</td>
+<td rowspan="6">
+</td>
+<td>Front line, tank, all armor, all army
+</td>
+<td>10.0/12.0/14.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+13.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+4.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+4.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+26.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>10</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>10</b></span>
+</td>
+<td>80%
+</td>
+<td>92.16
+</td>
+<td>2.40
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+480.0</b></span>
+</td>
+<td>Light Tank
+</td></tr>
+<tr>
+<td>Medium Tank
+</td>
+<td><a href="/File:Medium_tank.png" class="image"><img alt="Medium tank.png" src="/images/4/4b/Medium_tank.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_medium_tank.png" class="image"><img alt="NATO medium tank.png" src="/images/9/98/NATO_medium_tank.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>10
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.3</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>2.5</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.25</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.22</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>
+</td>
+<td>500
+</td>
+<td>180
+</td>
+<td>50 Medium Tanks
+</td>
+<td>Front line, tank, all armor, all army
+</td>
+<td>8.0/9.0/10.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+19.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+14.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+5.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+36.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>60</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>61</b></span>
+</td>
+<td>90%
+</td>
+<td>138.24
+</td>
+<td>3.60
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+600.0</b></span>
+</td>
+<td>Medium Tank
+</td></tr>
+<tr>
+<td>Heavy Tank
+</td>
+<td><a href="/File:Heavy_tank.png" class="image"><img alt="Heavy tank.png" src="/images/a/a8/Heavy_tank.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_heavy_armor.png" class="image"><img alt="NATO heavy armor.png" src="/images/0/03/NATO_heavy_armor.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>10
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.3</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>2.5</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.5</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.30</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>
+</td>
+<td>500
+</td>
+<td>180
+</td>
+<td>40 Heavy Tanks
+</td>
+<td>Front line, tank, all armor, all army
+</td>
+<td>5.0/6.0/6.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+15.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+12.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+6.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+36.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>70</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>35</b></span>
+</td>
+<td>95%
+</td>
+<td>168.96
+</td>
+<td>4.40
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1000.0</b></span>
+</td>
+<td>Heavy Tank
+</td></tr>
+<tr>
+<td>Super Heavy Tank
+</td>
+<td><a href="/File:Super_heavy_tank.png" class="image"><img alt="Super heavy tank.png" src="/images/3/3e/Super_heavy_tank.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_super_heavy_armor.png" class="image"><img alt="NATO super heavy armor.png" src="/images/f/fe/NATO_super_heavy_armor.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>10
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.3</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>2.5</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.75</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.40</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>
+</td>
+<td>500
+</td>
+<td>180
+</td>
+<td>15 Super Heavy Tanks
+</td>
+<td>Front line, tank, all armor, all army
+</td>
+<td>4.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+38.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+45.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+10.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+74.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>145</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>146</b></span>
+</td>
+<td>99%
+</td>
+<td>384.00
+</td>
+<td>10.00
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1500.0</b></span>
+</td>
+<td>Super Heavy Tank
+</td></tr>
+<tr>
+<td>Modern Tank
+</td>
+<td><a href="/File:Modern_tank.png" class="image"><img alt="Modern tank.png" src="/images/4/4f/Modern_tank.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_modern_armor.png" class="image"><img alt="NATO modern armor.png" src="/images/d/da/NATO_modern_armor.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>10
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.3</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>2.5</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.5</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.25</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>
+</td>
+<td>500
+</td>
+<td>180
+</td>
+<td>50 Modern Tanks
+</td>
+<td>Front line, tank, all armor, all army
+</td>
+<td>10.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+33.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+32.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+10.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+84.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>130</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>131</b></span>
+</td>
+<td>98%
+</td>
+<td>192.00
+</td>
+<td>5.00
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1400.0</b></span>
+</td>
+<td>Modern Tank
+</td></tr>
+<tr>
+<td>Amphibious Tank *requires Man the Guns DLC
+</td>
+<td><a href="/File:Amphibious_Tank.png" class="image"><img alt="Amphibious Tank.png" src="/images/d/d7/Amphibious_Tank.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_Amphibious_Tank.png" class="image"><img alt="NATO Amphibious Tank.png" src="/images/1/18/NATO_Amphibious_Tank.png" width="47" height="25" data-file-width="47" data-file-height="25" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>10
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.3</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.20</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>increased attack (+20% marsh, +30% river, +50% amphibious)
+</td>
+<td>500
+</td>
+<td>180
+</td>
+<td>50 Amphibious Tanks
+</td>
+<td>Front line, tank, all armor, all army
+</td>
+<td>7.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+13.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+4.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+4.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+26.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>20</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>10</b></span>
+</td>
+<td>80%
+</td>
+<td>192.00
+</td>
+<td>4.00
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+500.0</b></span>
+</td>
+<td>Amphibious Tank *requires Man the Guns DLC
+</td></tr>
+<tr>
+<td>Light TD
+</td>
+<td><a href="/File:Light_tank_anti-tank.png" class="image"><img alt="Light tank anti-tank.png" src="/images/a/a3/Light_tank_anti-tank.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_light_tank_anti-tank.png" class="image"><img alt="NATO light tank anti-tank.png" src="/images/6/62/NATO_light_tank_anti-tank.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.6</b></span>
+</td>
+<td>0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.3</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.20</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>
+</td>
+<td>500
+</td>
+<td>180
+</td>
+<td>30 L. Tank Destroyer
+</td>
+<td>
+</td>
+<td>Front line, all armor, all army
+</td>
+<td>10.0/12.0/14.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+6.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+10.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+4.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>10</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>50</b></span>
+</td>
+<td>80%
+</td>
+<td>46.08
+</td>
+<td>1.20
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+240.0</b></span>
+</td>
+<td>Light TD
+</td></tr>
+<tr>
+<td>Medium TD
+</td>
+<td><a href="/File:Medium_tank_anti-tank.png" class="image"><img alt="Medium tank anti-tank.png" src="/images/0/0f/Medium_tank_anti-tank.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_medium_tank_anti-tank.png" class="image"><img alt="NATO medium tank anti-tank.png" src="/images/a/a1/NATO_medium_tank_anti-tank.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.6</b></span>
+</td>
+<td>0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.3</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.25</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.22</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>
+</td>
+<td>500
+</td>
+<td>180
+</td>
+<td>24 M. Tank Destroyer
+</td>
+<td>
+</td>
+<td>Front line, all armor, all army
+</td>
+<td>8.0/9.0/10.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+5.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+20.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+5.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+1.3</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>60</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>88</b></span>
+</td>
+<td>90%
+</td>
+<td>69.12
+</td>
+<td>1.80
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+288.0</b></span>
+</td>
+<td>Medium TD
+</td></tr>
+<tr>
+<td>Heavy TD
+</td>
+<td><a href="/File:Heavy_tank_anti-tank.png" class="image"><img alt="Heavy tank anti-tank.png" src="/images/b/b3/Heavy_tank_anti-tank.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_heavy_armor_anti-tank.png" class="image"><img alt="NATO heavy armor anti-tank.png" src="/images/f/f1/NATO_heavy_armor_anti-tank.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.6</b></span>
+</td>
+<td>0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.3</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.5</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.30</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>
+</td>
+<td>500
+</td>
+<td>180
+</td>
+<td>20 H. Tank Destroyer
+</td>
+<td>
+</td>
+<td>Front line, all armor, all army
+</td>
+<td>5.0/6.0/6.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+6.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+25.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+4.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>70</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>96</b></span>
+</td>
+<td>95%
+</td>
+<td>84.48
+</td>
+<td>2.20
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+500.0</b></span>
+</td>
+<td>Heavy TD
+</td></tr>
+<tr>
+<td>Super Heavy TD
+</td>
+<td><a href="/File:Super_heavy_tank_anti-tank.png" class="image"><img alt="Super heavy tank anti-tank.png" src="/images/7/7d/Super_heavy_tank_anti-tank.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_super_heavy_armor_anti-tank.png" class="image"><img alt="NATO super heavy armor anti-tank.png" src="/images/d/db/NATO_super_heavy_armor_anti-tank.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.6</b></span>
+</td>
+<td>0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.3</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.75</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.40</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>
+</td>
+<td>500
+</td>
+<td>180
+</td>
+<td>7 SH. Tank Destroyer
+</td>
+<td>
+</td>
+<td>Front line, all armor, all army
+</td>
+<td>4.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+12.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+70.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+7.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+1.8</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>145</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>170</b></span>
+</td>
+<td>99%
+</td>
+<td>192.00
+</td>
+<td>5.00
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+700.0</b></span>
+</td>
+<td>Super Heavy TD
+</td></tr>
+<tr>
+<td>Modern TD
+</td>
+<td><a href="/File:Modern_tank_anti-tank.png" class="image"><img alt="Modern tank anti-tank.png" src="/images/9/90/Modern_tank_anti-tank.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_modern_armor_anti-tank.png" class="image"><img alt="NATO modern armor anti-tank.png" src="/images/c/ca/NATO_modern_armor_anti-tank.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.6</b></span>
+</td>
+<td>0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.3</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.5</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.25</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>
+</td>
+<td>500
+</td>
+<td>180
+</td>
+<td>24 Modern Tank Destroyer
+</td>
+<td>
+</td>
+<td>Front line, all armor, all army
+</td>
+<td>10
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+10.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+42.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+8.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>130</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>165</b></span>
+</td>
+<td>98%
+</td>
+<td>96.00
+</td>
+<td>2.50
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+672.0</b></span>
+</td>
+<td>Modern TD
+</td></tr>
+<tr>
+<td>Light SP Artillery
+</td>
+<td><a href="/File:Light_tank_artillery.png" class="image"><img alt="Light tank artillery.png" src="/images/1/10/Light_tank_artillery.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_light_tank_artillery.png" class="image"><img alt="NATO light tank artillery.png" src="/images/e/ea/NATO_light_tank_artillery.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.6</b></span>
+</td>
+<td>0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.1</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.40</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+3.0</b></span>
+</td>
+<td>
+</td>
+<td>500
+</td>
+<td>180
+</td>
+<td>36 Light SP Artillery
+</td>
+<td>
+</td>
+<td>All armor, all army
+</td>
+<td>10.0/12.0/14.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+34.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.5</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+4.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>5</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>4</b></span>
+</td>
+<td>50%
+</td>
+<td>46.08
+</td>
+<td>1.20
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+288.0</b></span>
+</td>
+<td>Light SP Artillery
+</td></tr>
+<tr>
+<td>Medium SP Artillery
+</td>
+<td><a href="/File:Medium_tank_artillery.png" class="image"><img alt="Medium tank artillery.png" src="/images/4/42/Medium_tank_artillery.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_medium_tank_artillery.png" class="image"><img alt="NATO medium tank artillery.png" src="/images/d/d6/NATO_medium_tank_artillery.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.6</b></span>
+</td>
+<td>0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.1</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.25</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.44</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+3.0</b></span>
+</td>
+<td>
+</td>
+<td>500
+</td>
+<td>180
+</td>
+<td>36 Medium SP Artillery
+</td>
+<td>
+</td>
+<td>All armor, all army
+</td>
+<td>8.0/9.0/10.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+42.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+5.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+3.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>45</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>5</b></span>
+</td>
+<td>65%
+</td>
+<td>69.12
+</td>
+<td>1.80
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+432.0</b></span>
+</td>
+<td>Medium SP Artillery
+</td></tr>
+<tr>
+<td>Heavy SP Artillery
+</td>
+<td><a href="/File:Heavy_tank_artillery.png" class="image"><img alt="Heavy tank artillery.png" src="/images/2/24/Heavy_tank_artillery.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_heavy_armor_artillery.png" class="image"><img alt="NATO heavy armor artillery.png" src="/images/2/25/NATO_heavy_armor_artillery.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.6</b></span>
+</td>
+<td>0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.1</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.5</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.60</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+3.0</b></span>
+</td>
+<td>
+</td>
+<td>500
+</td>
+<td>180
+</td>
+<td>24 Heavy SP Artillery
+</td>
+<td>
+</td>
+<td>All armor, all army
+</td>
+<td>5.0/6.0/6.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+55.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+4.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>45</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>8</b></span>
+</td>
+<td>80%
+</td>
+<td>84.48
+</td>
+<td>2.20
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+600.0</b></span>
+</td>
+<td>Heavy SP Artillery
+</td></tr>
+<tr>
+<td>Super Heavy SP Artillery
+</td>
+<td><a href="/File:Super_heavy_tank_artillery.png" class="image"><img alt="Super heavy tank artillery.png" src="/images/5/53/Super_heavy_tank_artillery.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_super_heavy_armor_artillery.png" class="image"><img alt="NATO super heavy armor artillery.png" src="/images/2/22/NATO_super_heavy_armor_artillery.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.6</b></span>
+</td>
+<td>0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.1</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.75</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.80</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+3.0</b></span>
+</td>
+<td>
+</td>
+<td>500
+</td>
+<td>180
+</td>
+<td>12 SH SP Artillery
+</td>
+<td>
+</td>
+<td>All armor, all army
+</td>
+<td>4.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+85.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+3.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+7.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+3.5</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>100</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>9</b></span>
+</td>
+<td>90%
+</td>
+<td>192.00
+</td>
+<td>5.00
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1200.0</b></span>
+</td>
+<td>Super Heavy SP Artillery
+</td></tr>
+<tr>
+<td>Modern SP Artillery
+</td>
+<td><a href="/File:Modern_tank_artillery.png" class="image"><img alt="Modern tank artillery.png" src="/images/a/a6/Modern_tank_artillery.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_modern_armor_artillery.png" class="image"><img alt="NATO modern armor artillery.png" src="/images/e/ec/NATO_modern_armor_artillery.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.6</b></span>
+</td>
+<td>0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.1</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.5</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.50</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+3.0</b></span>
+</td>
+<td>
+</td>
+<td>500
+</td>
+<td>180
+</td>
+<td>40 Modern SP Artillery
+</td>
+<td>
+</td>
+<td>All armor, all army
+</td>
+<td>10
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+80.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+3.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+8.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+4.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>90</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>10</b></span>
+</td>
+<td>85%
+</td>
+<td>96.00
+</td>
+<td>2.50
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1120.0</b></span>
+</td>
+<td>Modern SP Artillery
+</td></tr>
+<tr>
+<td>Light SP Anti-Air
+</td>
+<td><a href="/File:Light_tank_anti-air.png" class="image"><img alt="Light tank anti-air.png" src="/images/d/de/Light_tank_anti-air.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_light_tank_anti-air.png" class="image"><img alt="NATO light tank anti-air.png" src="/images/4/4c/NATO_light_tank_anti-air.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.6</b></span>
+</td>
+<td>0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.1</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.10</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td>
+</td>
+<td>500
+</td>
+<td>180
+</td>
+<td>15 Light SP Anti-Air
+</td>
+<td rowspan="5">+50% Soft Atk.
+</td>
+<td>All armor, all army
+</td>
+<td>10.0/12.0/14.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+3.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+15.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>5</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>5</b></span>
+</td>
+<td>50%
+</td>
+<td>23.04
+</td>
+<td>0.60
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+150.0</b></span>
+</td>
+<td>Light SP Anti-Air
+</td></tr>
+<tr>
+<td>Medium SP Anti-Air
+</td>
+<td><a href="/File:Medium_tank_anti-air.png" class="image"><img alt="Medium tank anti-air.png" src="/images/d/d4/Medium_tank_anti-air.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_medium_tank_anti-air.png" class="image"><img alt="NATO medium tank anti-air.png" src="/images/0/0b/NATO_medium_tank_anti-air.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.6</b></span>
+</td>
+<td>0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.1</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.25</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.10</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td>
+</td>
+<td>500
+</td>
+<td>180
+</td>
+<td>12 Medium SP Anti-Air
+</td>
+<td>All armor, all army
+</td>
+<td>8.0/9.0/10.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+6.75</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+3.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+22.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.5</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.5</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>45</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>40</b></span>
+</td>
+<td>65%
+</td>
+<td>34.56
+</td>
+<td>0.90
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+144.0</b></span>
+</td>
+<td>Medium SP Anti-Air
+</td></tr>
+<tr>
+<td>Heavy SP Anti-Air
+</td>
+<td><a href="/File:Heavy_tank_anti-air.png" class="image"><img alt="Heavy tank anti-air.png" src="/images/4/4c/Heavy_tank_anti-air.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_heavy_armor_anti-air.png" class="image"><img alt="NATO heavy armor anti-air.png" src="/images/5/56/NATO_heavy_armor_anti-air.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.6</b></span>
+</td>
+<td>0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.1</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.5</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.10</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td>
+</td>
+<td>500
+</td>
+<td>180
+</td>
+<td>8 Heavy SP Anti-Air
+</td>
+<td>All armor, all army
+</td>
+<td>5.0/6.0/6.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+6.75</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+4.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+17.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>45</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>25</b></span>
+</td>
+<td>80%
+</td>
+<td>42.24
+</td>
+<td>1.10
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+200.0</b></span>
+</td>
+<td>Heavy SP Anti-Air
+</td></tr>
+<tr>
+<td>Super Heavy SP Anti-Air
+</td>
+<td><a href="/File:Super_heavy_tank_anti-air.png" class="image"><img alt="Super heavy tank anti-air.png" src="/images/5/52/Super_heavy_tank_anti-air.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_super_heavy_armor_anti-air.png" class="image"><img alt="NATO super heavy armor anti-air.png" src="/images/f/ff/NATO_super_heavy_armor_anti-air.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.6</b></span>
+</td>
+<td>0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.1</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.75</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.10</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td>
+</td>
+<td>500
+</td>
+<td>180
+</td>
+<td>4 SH. SP Anti-Air
+</td>
+<td>All armor, all army
+</td>
+<td>4.0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+17.25</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+9.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+50.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+3.5</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+3.5</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>100</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>98</b></span>
+</td>
+<td>90%
+</td>
+<td>96.00
+</td>
+<td>2.50
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+400.0</b></span>
+</td>
+<td>Super Heavy SP Anti-Air
+</td></tr>
+<tr>
+<td>Modern SP Anti-Air
+</td>
+<td><a href="/File:Modern_tank_anti-air.png" class="image"><img alt="Modern tank anti-air.png" src="/images/f/fb/Modern_tank_anti-air.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_modern_armor_anti-air.png" class="image"><img alt="NATO modern armor anti-air.png" src="/images/0/08/NATO_modern_armor_anti-air.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.6</b></span>
+</td>
+<td>0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.1</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.5</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.10</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td>
+</td>
+<td>500
+</td>
+<td>180
+</td>
+<td>12 Modern SP Anti-Air
+</td>
+<td>All armor, all army
+</td>
+<td>10
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+13.5</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+7.5</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+50.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+4.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+4.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>90</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>100</b></span>
+</td>
+<td>85%
+</td>
+<td>48.00
+</td>
+<td>1.25
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+336.0</b></span>
+</td>
+<td>Modern SP Anti-Air
+</td></tr>
+<tr>
+<td rowspan="14"><a href="/Division#Support_Companies" title="Division">Support</a>
+</td>
+<td>Anti-Tank
+</td>
+<td><a href="/File:Support_anti-tank.png" class="image"><img alt="Support anti-tank.png" src="/images/9/9e/Support_anti-tank.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_support_anti-tank.png" class="image"><img alt="NATO support anti-tank.png" src="/images/0/02/NATO_support_anti-tank.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.2</b></span>
+</td>
+<td>0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.1</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.1</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.08</b></span>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>300
+</td>
+<td>120
+</td>
+<td>24 Anti-Tank
+</td>
+<td rowspan="14">Reduced values for support companies
+</td>
+<td>Front line, support, all army
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+7.5</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>63.7</b></span>
+</td>
+<td>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+96.0</b></span>
+</td>
+<td>Anti-Tank
+</td></tr>
+<tr>
+<td>Anti-Air
+</td>
+<td><a href="/File:Support_anti-air.png" class="image"><img alt="Support anti-air.png" src="/images/3/36/Support_anti-air.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_support_anti-air.png" class="image"><img alt="NATO support anti-air.png" src="/images/6/6e/NATO_support_anti-air.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.2</b></span>
+</td>
+<td>0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.1</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.1</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.10</b></span>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>300
+</td>
+<td>120
+</td>
+<td>20 Anti-Air
+</td>
+<td>Support, all army
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+1.8</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+4.2</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+15.2</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.4</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.6</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>25</b></span>
+</td>
+<td>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+80.0</b></span>
+</td>
+<td>Anti-Air
+</td></tr>
+<tr>
+<td>Artillery
+</td>
+<td><a href="/File:Support_artillery.png" class="image"><img alt="Support artillery.png" src="/images/f/fd/Support_artillery.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_support_artillery.png" class="image"><img alt="NATO support artillery.png" src="/images/7/73/NATO_support_artillery.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.2</b></span>
+</td>
+<td>0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.1</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.1</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.16</b></span>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>300
+</td>
+<td>120
+</td>
+<td>12 Artillery
+</td>
+<td>Support, artillery, all army
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+15.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+1.2</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+6.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+3.6</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>5</b></span>
+</td>
+<td>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+42.0</b></span>
+</td>
+<td>Artillery
+</td></tr>
+<tr>
+<td>Rocket Artillery
+</td>
+<td><a href="/File:Support_rocket_artillery.png" class="image"><img alt="Support rocket artillery.png" src="/images/e/e2/Support_rocket_artillery.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_support_rocket_artillery.png" class="image"><img alt="NATO support rocket artillery.png" src="/images/d/dd/NATO_support_rocket_artillery.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.2</b></span>
+</td>
+<td>0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.1</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.1</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.16</b></span>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>300
+</td>
+<td>120
+</td>
+<td>24 Rocket Artillery
+</td>
+<td>Support, artillery, all army
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+15.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.5</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+6.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+4.5</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>2</b></span>
+</td>
+<td>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+96.0</b></span>
+</td>
+<td>Rocket Artillery
+</td></tr>
+<tr>
+<td>Cavalry Recon
+</td>
+<td><a href="/File:Recon.png" class="image"><img alt="Recon.png" src="/images/4/45/Recon.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_recon.png" class="image"><img alt="NATO recon.png" src="/images/a/ac/NATO_recon.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>20
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.3</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.1</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.02</b></span>
+</td>
+<td>
+</td>
+<td>+1 Recon
+</td>
+<td>500
+</td>
+<td>120
+</td>
+<td>40 Infantry Equipment, 10 Support Equipment
+</td>
+<td>Support, front line, all army
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.3</b></span>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+10.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>1</b></span>
+</td>
+<td>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+57.2</b></span>
+</td>
+<td>Cavalry Recon
+</td></tr>
+<tr>
+<td>Motorized Recon
+</td>
+<td><a href="/File:Motorized_Recon.png" class="image"><img alt="Motorized Recon.png" src="/images/thumb/5/59/Motorized_Recon.png/75px-Motorized_Recon.png" width="75" height="39" srcset="/images/5/59/Motorized_Recon.png 1.5x" data-file-width="76" data-file-height="40" /></a>
+</td>
+<td><a href="/File:NATO_Motorized_Recon.png" class="image"><img alt="NATO Motorized Recon.png" src="/images/0/07/NATO_Motorized_Recon.png" width="50" height="27" data-file-width="47" data-file-height="25" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>20
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.3</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.1</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.02</b></span>
+</td>
+<td>
+</td>
+<td>+1.5 Recon
+</td>
+<td>500
+</td>
+<td>120
+</td>
+<td>40 Infantry Equipment, 10 Support Equipment, 20 Motorized
+</td>
+<td>Support, front line, all army
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.3</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.05</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>1</b></span>
+</td>
+<td>10%
+</td>
+<td>46
+</td>
+<td>1.2
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+107.2.0</b></span>
+</td>
+<td>Motorized Recon
+</td></tr>
+<tr>
+<td>Armored Car Recon
+</td>
+<td><a href="/File:Armored_Car_Recon.png" class="image"><img alt="Armored Car Recon.png" src="/images/thumb/7/78/Armored_Car_Recon.png/75px-Armored_Car_Recon.png" width="75" height="39" srcset="/images/7/78/Armored_Car_Recon.png 1.5x" data-file-width="76" data-file-height="40" /></a>
+</td>
+<td><a href="/File:NATO_Armored_Car_Recon.png" class="image"><img alt="NATO Armored Car Recon.png" src="/images/0/09/NATO_Armored_Car_Recon.png" width="50" height="27" data-file-width="47" data-file-height="25" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>20
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.3</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.1</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.02</b></span>
+</td>
+<td>
+</td>
+<td>+2 Recon
+</td>
+<td>500
+</td>
+<td>120
+</td>
+<td>24 Armored Cars
+</td>
+<td>Support, front line, all army
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.6</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.2</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+6.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>3</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>6</b></span>
+</td>
+<td>65%
+</td>
+<td>30.67
+</td>
+<td>0.8
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+96</b></span>
+</td>
+<td>Armored Car Recon
+</td></tr>
+<tr>
+<td>Light Tank Recon
+</td>
+<td><a href="/File:Light_Tank_Recon.png" class="image"><img alt="Light Tank Recon.png" src="/images/thumb/0/0e/Light_Tank_Recon.png/75px-Light_Tank_Recon.png" width="75" height="39" srcset="/images/0/0e/Light_Tank_Recon.png 1.5x" data-file-width="76" data-file-height="40" /></a>
+</td>
+<td><a href="/File:NATO_Light_Tank_Recon.png" class="image"><img alt="NATO Light Tank Recon.png" src="/images/b/b2/NATO_Light_Tank_Recon.png" width="50" height="27" data-file-width="47" data-file-height="25" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>20
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.3</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.1</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.02</b></span>
+</td>
+<td>
+</td>
+<td>+1 Recon
+</td>
+<td>500
+</td>
+<td>120
+</td>
+<td>24 light tanks
+</td>
+<td>Support, front line, all army
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+1.3</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.4</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+13.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>10</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>10</b></span>
+</td>
+<td>80%
+</td>
+<td>92
+</td>
+<td>2.4
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+192</b></span>
+</td>
+<td>Light Tank Recon
+</td></tr>
+<tr>
+<td>Engineers
+</td>
+<td><a href="/File:Engineer.png" class="image"><img alt="Engineer.png" src="/images/d/d8/Engineer.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_engineer.png" class="image"><img alt="NATO engineer.png" src="/images/5/53/NATO_engineer.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>20
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.3</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.1</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.02</b></span>
+</td>
+<td>
+</td>
+<td>+5 Max. Entrenchment, improves fort &amp; amphibious combat, adds defense bonus
+</td>
+<td>300
+</td>
+<td>120
+</td>
+<td>10 Infantry Equipment, 30 Support Equipment
+</td>
+<td>Support, front line, all army
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+1.5</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.5</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+22.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+3.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>1</b></span>
+</td>
+<td>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+124.0</b></span>
+</td>
+<td>Engineers
+</td></tr>
+<tr>
+<td>Field Hospital
+</td>
+<td><a href="/File:Field_hospital.png" class="image"><img alt="Field hospital.png" src="/images/5/52/Field_hospital.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_field_hospital.png" class="image"><img alt="NATO field hospital.png" src="/images/2/28/NATO_field_hospital.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>20
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.3</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.1</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.05</b></span>
+</td>
+<td>
+</td>
+<td>+20% <a href="/Manpower" title="Manpower">Manpower</a> regained,<br /> -10% <a href="/Experience#Unit_experience" title="Experience">Experience</a> lost from casualties
+</td>
+<td>500
+</td>
+<td>120
+</td>
+<td>20 Motorized, 30 Support Equipment
+</td>
+<td>Support, all army
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+170.0</b></span>
+</td>
+<td>Field Hospital
+</td></tr>
+<tr>
+<td>Logistics Company
+</td>
+<td><a href="/File:Logistics_company.png" class="image"><img alt="Logistics company.png" src="/images/b/b4/Logistics_company.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_logistics_company.png" class="image"><img alt="NATO logistics company.png" src="/images/a/a8/NATO_logistics_company.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td>10
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.3</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.1</b></span>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>-10% Supply Consumption, -5% Fuel Consumption
+</td>
+<td>500
+</td>
+<td>120
+</td>
+<td>10 Motorized, 20 Support Equipment
+</td>
+<td>Support, all army
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+105.0</b></span>
+</td>
+<td>Logistics Company
+</td></tr>
+<tr>
+<td>Maintenance Company
+</td>
+<td><a href="/File:Maintenance_company.png" class="image"><img alt="Maintenance company.png" src="/images/5/58/Maintenance_company.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_maintenance_company.png" class="image"><img alt="NATO maintenance company.png" src="/images/0/0d/NATO_maintenance_company.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td>20
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.3</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.1</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.03</b></span>
+</td>
+<td>
+</td>
+<td>+ 5% Reliability,<br /> +5% equipment capture ratio
+</td>
+<td>500
+</td>
+<td>120
+</td>
+<td>25 Support Equipment
+</td>
+<td>Support, all army
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+100.0</b></span>
+</td>
+<td>Maintenance Company
+</td></tr>
+<tr>
+<td>Military Police
+</td>
+<td><a href="/File:Military_Police.png" class="image"><img alt="Military Police.png" src="/images/e/ea/Military_Police.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_military_police.png" class="image"><img alt="NATO military police.png" src="/images/e/e7/NATO_military_police.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td>0
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.3</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.1</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.02</b></span>
+</td>
+<td>
+</td>
+<td>+20% Suppression
+</td>
+<td>500
+</td>
+<td>180
+</td>
+<td>40 Infantry Equipment, 10 Support Equipment
+</td>
+<td>Support, all army
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+3.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+0.5</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+20.0</b></span>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+2.0</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>1</b></span>
+</td>
+<td>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+56.0</b></span>
+</td>
+<td>Military Police
+</td></tr>
+<tr>
+<td>Signal Company
+</td>
+<td><a href="/File:Signal_company.png" class="image"><img alt="Signal company.png" src="/images/0/04/Signal_company.png" width="76" height="42" data-file-width="76" data-file-height="42" /></a>
+</td>
+<td><a href="/File:NATO_signal_company.png" class="image"><img alt="NATO signal company.png" src="/images/1/16/NATO_signal_company.png" width="53" height="31" data-file-width="53" data-file-height="31" /></a>
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>+1.0</b></span>
+</td>
+<td>20
+</td>
+<td><span class="effect-green" style="color: green;&#32;; white-space:nowrap"><b>0.3</b></span>
+</td>
+<td>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.1</b></span>
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+0.02</b></span>
+</td>
+<td>
+</td>
+<td>+20% Initiative
+</td>
+<td>500
+</td>
+<td>120
+</td>
+<td>10 Motorized, 20 Support Equipment
+</td>
+<td>Support, all army
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td><span class="effect-red" style="color: red;&#32;; white-space:nowrap"><b>+105.0</b></span>
+</td>
+<td>Signal Company
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="Equipment">Equipment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Land_units&amp;action=edit&amp;section=13" title="Edit section: Equipment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dd></dd>
+<dd><i>Main article: <a href="/Equipment" title="Equipment">Equipment</a></i><br /></dd></dl>
+<p>Equipment is produced by <a href="/Production" title="Production">Production</a> Lines. All units use Equipment of some sort. An Equipment Type is a more abstract grouping, such as Medium Tanks. A Division that has a <a href="/Division_template" class="mw-redirect" title="Division template">Division template</a> that uses Medium Tanks can use any type of Medium Tank Equipment to fill its Equipment needs. The statistics of a unit are determined by the statistics of its equipment types. This may be modified by the unit itself; for example, <a href="/Division#Support_Companies" title="Division">support units</a> typically get penalties to most combat statistics.
+</p>
+<h2><span class="mw-headline" id="Self-Propelled_Variants">Self-Propelled Variants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Land_units&amp;action=edit&amp;section=14" title="Edit section: Self-Propelled Variants">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Armored units have the following self-propelled <a href="/Variant" title="Variant">variants</a> in addition to the base "tank" type:  
+</p>
+<ul><li>Self-propelled anti-air (SPAA).</li>
+<li>Self-propelled artillery (SPA or SPART).  Also commonly known as self-propelled gun (SPG).</li>
+<li>Tank destroyer (TD). Also lesser known as self-propelled anti-tank (SPAT).</li></ul>
+<p>These are found as additional research option tabs on the tank icon in the research tree.  
+</p><p>Compared with the towed versions, self-propelled battalions provide the following benefits:  
+</p>
+<ul><li>Speed - Towed battalions have a speed of 4.0 km/h (although towed support units match division speed).</li>
+<li>Damage - With the exception of AA, considerably higher damage is available.</li>
+<li>Armor - General increase in armor values for the division.</li>
+<li>Hardness - Towed versions have 0% Hardness.</li>
+<li>Reliability - Self-propelled vehicles can have their Reliability stat upgraded. Towed versions are locked at 80%.</li>
+<li>Cost - The Production Cost is generally higher for self-propelled variants per battalion, but converting obsolete tanks to self-propelled versions is much cheaper and faster to produce than their towed counterparts in addition to conserving valuable resources.</li></ul>
+<p>Motorized units have the following variant:  
+</p>
+<ul><li>Motorized rocket artillery.</li>
+<li>Motorized artillery.</li>
+<li>Motorized anti-tank.</li>
+<li>Motorized anti-Air.</li></ul>
+<p>Having the ability to switch an existing tank production line to self-propelled variants efficiently is one reason why it may be advisable to divide production of a tank among multiple production lines.
+</p>
+<h2><span class="mw-headline" id="Division_Examples">Division Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Land_units&amp;action=edit&amp;section=15" title="Edit section: Division Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/Historical_Divisions" class="mw-redirect" title="Historical Divisions">Historical Divisions</a></li></ul>
+<p><br />
+</p>
+<div style="clear: both;"></div>
+<div style="margin: 0px; padding: 2px; border: 1px solid #aaa; text-align: center; border-collapse: collapse; font-size: 100%;">
+<div style="height: 1.6em; font-weight: bold; font-size: 105%; background-color: #efefef;"><b><a href="/Mechanics" title="Mechanics">Mechanics</a></b></div>
+<div style="&quot;font-size:0.9em;">
+<table style="font-size: 11px; margin: 0px 0px -2px -2px; width: 100%;">
+
+<tbody><tr>
+<td style="width: 210px; background: #EDEDED; font-weight: bold; text-align: right; padding: 2px 5px;">Politics
+</td>
+<td style="text-align: left; padding: 2px 5px;"><a href="/Ideology" title="Ideology">Ideology</a> • <a href="/Faction" title="Faction">Faction</a> • <a href="/National_focus" title="National focus">National focus</a> • <a href="/Ideas" title="Ideas">Ideas</a> • <a href="/Government" title="Government">Government</a> • <a href="/Puppet" title="Puppet">Puppet</a> • <a href="/Diplomacy" title="Diplomacy">Diplomacy</a> • <a href="/World_tension" title="World tension">World tension</a> • <a href="/Civil_war" title="Civil war">Civil war</a>
+</td></tr></tbody></table>
+<table style="font-size: 11px; margin: 0px 0px -2px -2px; width: 100%;">
+
+<tbody><tr>
+<td style="width: 210px; background: #EDEDED; font-weight: bold; text-align: right; padding: 2px 5px;">Production
+</td>
+<td style="text-align: left; padding: 2px 5px;"><a href="/Trade" title="Trade">Trade</a> • <a href="/Production" title="Production">Production</a> • <a href="/Construction" title="Construction">Construction</a> • <a href="/Equipment" title="Equipment">Equipment</a>
+</td></tr></tbody></table>
+<table style="font-size: 11px; margin: 0px 0px -2px -2px; width: 100%;">
+
+<tbody><tr>
+<td style="width: 210px; background: #EDEDED; font-weight: bold; text-align: right; padding: 2px 5px;">Research and technology
+</td>
+<td style="text-align: left; padding: 2px 5px;"><a href="/Research" title="Research">Research</a> • <a href="/Infantry_technology" title="Infantry technology">Infantry technology</a> • <a href="/Support_Companies_technology" class="mw-redirect" title="Support Companies technology">Support Companies technology</a> • <a href="/Armor_technology" title="Armor technology">Armor technology</a> • <a href="/Artillery_technology" title="Artillery technology">Artillery technology</a> • <a href="/Land_doctrine" title="Land doctrine">Land doctrine</a> • <a href="/Naval_technology" title="Naval technology">Naval technology</a> • <a href="/Naval_doctrine" title="Naval doctrine">Naval doctrine</a> • <a href="/Air_technology" title="Air technology">Air technology</a> • <a href="/Air_doctrine" title="Air doctrine">Air doctrine</a> • <a href="/Engineering_technology" title="Engineering technology">Engineering technology</a> • <a href="/Industry_technology" title="Industry technology">Industry technology</a>
+</td></tr></tbody></table>
+<table style="font-size: 11px; margin: 0px 0px -2px -2px; width: 100%;">
+
+<tbody><tr>
+<td style="width: 210px; background: #EDEDED; font-weight: bold; text-align: right; padding: 2px 5px;">Military and warfare
+</td>
+<td style="text-align: left; padding: 2px 5px;"><a href="/Warfare" title="Warfare">Warfare</a> • <a class="mw-selflink selflink">Land units</a> • <a href="/Land_warfare" title="Land warfare">Land warfare</a> • <a href="/Division_designer" title="Division designer">Division designer</a> • <a href="/Army_planner" title="Army planner">Army planner</a> • <a href="/Command_group" title="Command group">Command group</a> • <a href="/Commander" title="Commander">Commander</a> • <a href="/Battle_plan" title="Battle plan">Battle plan</a> • <a href="/Combat_tactics" title="Combat tactics">Combat tactics</a> • <a href="/Ship" title="Ship">Ship</a> • <a href="/Naval_warfare" title="Naval warfare">Naval warfare</a> • <a href="/Aircraft" title="Aircraft">Aircraft</a> • <a href="/Air_warfare" title="Air warfare">Air warfare</a> • <a href="/Experience" title="Experience">Experience</a> • <a href="/Attrition_and_accidents" title="Attrition and accidents">Attrition and accidents</a> • <a href="/Logistics" title="Logistics">Logistics</a> • <a href="/Manpower" title="Manpower">Manpower</a>
+</td></tr></tbody></table>
+<table style="font-size: 11px; margin: 0px 0px -2px -2px; width: 100%;">
+
+<tbody><tr>
+<td style="width: 210px; background: #EDEDED; font-weight: bold; text-align: right; padding: 2px 5px;">Map
+</td>
+<td style="text-align: left; padding: 2px 5px;"><a href="/Map" title="Map">Map</a> • <a href="/Province" title="Province">Province</a> • <a href="/Terrain" title="Terrain">Terrain</a> • <a href="/Weather" title="Weather">Weather</a> • <a href="/State" title="State">State</a>
+</td></tr></tbody></table>
+<table style="font-size: 11px; margin: 0px 0px -2px -2px; width: 100%;">
+
+<tbody><tr>
+<td style="width: 210px; background: #EDEDED; font-weight: bold; text-align: right; padding: 2px 5px;">Events
+</td>
+<td style="text-align: left; padding: 2px 5px;"><a href="/Events" title="Events">Events</a>
+</td></tr></tbody></table>
+</div></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20200229204349
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.574 seconds
+Real time usage: 1.274 seconds
+Preprocessor visited node count: 5851/1000000
+Preprocessor generated node count: 21038/1000000
+Post‐expand include size: 59812/2097152 bytes
+Template argument size: 6085/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  227.656      1 -total
+ 20.06%   45.661    198 Template:Red
+ 19.76%   44.993    392 Template:Green
+ 15.66%   35.657      1 Template:Icon
+  5.59%   12.729      3 Template:Main
+  5.03%   11.450      1 Template:Mechanics_Navbox
+  3.88%    8.841      1 Template:Navbox
+  2.99%    6.807      2 Template:Hover
+  2.84%    6.461      3 Template:Hatnote
+  2.40%    5.457      4 Template:SVersion
+-->
+
+<!-- Saved in parser cache with key wiki_hoi4-mwhoi4_:pcache:idhash:339-0!canonical and timestamp 20200229204348 and revision id 35637
+ -->
+</div></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://hoi4.paradoxwikis.com/index.php?title=Land_units&amp;oldid=35637">https://hoi4.paradoxwikis.com/index.php?title=Land_units&amp;oldid=35637</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Potentially_outdated" title="Category:Potentially outdated">Potentially outdated</a></li><li><a href="/Category:1.5" title="Category:1.5">1.5</a></li><li><a href="/Category:Units" title="Category:Units">Units</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Land+units" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/Land_units" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk"><span><a href="/Talk:Land_units" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/Land_units">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/index.php?title=Land_units&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/index.php?title=Land_units&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Hearts of Iron 4 Wiki" title="Search Hearts of Iron 4 Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/Hearts_of_Iron_4_Wiki"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/Hearts_of_Iron_4_Wiki" title="Visit the main page [z]" accesskey="z">HoI4 Wiki Main Page</a></li><li id="n-paradoxwiki"><a href="https://paradoxwikis.com/">Paradox Wikis</a></li><li id="n-forum"><a href="https://forum.paradoxplaza.com/forum">Paradox Forums</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Land_units" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Land_units" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/index.php?title=Land_units&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Land_units&amp;oldid=35637" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Land_units&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-" aria-labelledby="p--label">
+			<h3 id="p--label"></h3>
+			<div class="body">
+				<div style = "margin-left:-2em;width:160px"><a href="https://www.crusaderkings.com/?utm_source=pdxwiki-owned&utm_medium=social-owned&utm_content=banner&utm_campaign=crki3_ck_20191105_cawe_siup"><img src="https://central.paradoxwikis.com/images/e/eb/Ad_CK3_signup.png" style="margin-left:auto;margin-right:auto; display:block"></a></div>			</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">In other languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-hoi4de"><a href="https://hoi4-de.paradoxwikis.com/Land_units" title="hoi4de:Land units" lang="hoi4de" hreflang="hoi4de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-hoi4es"><a href="https://hoi4-es.paradoxwikis.com/Land_units" title="hoi4es:Land units" lang="hoi4es" hreflang="hoi4es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-hoi4fr"><a href="https://hoi4-fr.paradoxwikis.com/Land_units" title="hoi4fr:Land units" lang="hoi4fr" hreflang="hoi4fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hoi4pl"><a href="https://hoi4-pl.paradoxwikis.com/Land_units" title="hoi4pl:Land units" lang="hoi4pl" hreflang="hoi4pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-hoi4pt"><a href="https://hoi4-pt.paradoxwikis.com/Land_units" title="hoi4pt:Land units" lang="hoi4pt" hreflang="hoi4pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-hoi4ru"><a href="https://hoi4-ru.paradoxwikis.com/Land_units" title="hoi4ru:Land units" lang="hoi4ru" hreflang="hoi4ru" class="interlanguage-link-target">Русский</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 29 February 2020, at 20:43.</li>
+								<li id="footer-info-copyright">Content is available under <a href="https://central.paradoxwikis.com/Central:Copyrights" class="extiw" title="central:Central:Copyrights">Attribution-ShareAlike 3.0</a> unless otherwise noted.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-about"><a href="https://central.paradoxwikis.com/Central:About" class="extiw" title="central:Central:About">About Hearts of Iron 4 Wiki</a></li>
+								<li id="footer-places-mainpage"><a href="/Hearts_of_Iron_4_Wiki" title="Hearts of Iron 4 Wiki">Hearts of Iron 4 Wiki</a></li>
+								<li id="footer-places-paradoxwiki"><a href="https://paradoxwikis.com/" class="extiw" title="paradoxwiki:">Paradox Wikis</a></li>
+								<li id="footer-places-legal_pp"><a href="https://legal.paradoxplaza.com/privacy?locale=en">Privacy Policy</a></li>
+								<li id="footer-places-mobileview"><a href="https://hoi4.paradoxwikis.com/index.php?title=Land_units&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="https://licensebuttons.net/l/by-sa/3.0/88x31.png" alt="Attribution-ShareAlike 3.0" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.574","walltime":"1.274","ppvisitednodes":{"value":5851,"limit":1000000},"ppgeneratednodes":{"value":21038,"limit":1000000},"postexpandincludesize":{"value":59812,"limit":2097152},"templateargumentsize":{"value":6085,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  227.656      1 -total"," 20.06%   45.661    198 Template:Red"," 19.76%   44.993    392 Template:Green"," 15.66%   35.657      1 Template:Icon","  5.59%   12.729      3 Template:Main","  5.03%   11.450      1 Template:Mechanics_Navbox","  3.88%    8.841      1 Template:Navbox","  2.99%    6.807      2 Template:Hover","  2.84%    6.461      3 Template:Hatnote","  2.40%    5.457      4 Template:SVersion"]},"cachereport":{"timestamp":"20200229204349","ttl":86400,"transientcontent":false}}});});</script>
+<!-- Google Tag Manager (added by extension GoogleTagManager) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5QW7SS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5QW7SS');</script>
+<!-- End Google Tag Manager -->
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":100});});</script>
+	</body>
+</html>
