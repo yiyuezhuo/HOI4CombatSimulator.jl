@@ -6,6 +6,10 @@ include("defs.jl")
 include("get_data.jl")
 include("data_model.jl")
 include("resolve.jl")
+
+include("inference/Inference.jl")
+
 include("quick.jl")
+
 
 end # module

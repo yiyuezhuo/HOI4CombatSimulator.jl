@@ -60,11 +60,32 @@ function Division(template::DivisionTemplate)
     Division(template, template.HP, template.Org)
 end
 
+function reset!(div::Division)
+    div.HP = div.T.HP
+    div.Org = div.T.Org
+end
+
+function broken(div::Division)
+    return div.Org <= 0
+end
+
+function eliminated(div::Division)
+    return div.HP <= 0
+end
+
+function defeated(div::Division)
+    return broken(div) || eliminated(div)
+end
+
 function Base.show(io::IO, media::MIME"text/plain", div::Division)
     f(x) = round(x, digits=1)
     
     println(io, "HP: $(f(div.HP))/$(f(div.T.HP))")
     println(io, "Org: $(f(div.Org))/$(f(div.T.Org))")
+    println(io, "SoftAtk, HardAtk: $(f(div.T.SoftAtk)), $(f(div.T.HardAtk))")
+    println(io, "Breakthr, Defense: $(f(div.T.Breakthr)), $(f(div.T.Defense))")
+    println(io, "Pierce, Armor: $(f(div.T.Pierce)), $(f(div.T.Armor))")
+    println(io, "Hardness, Width: $(round(div.T.Hardness, digits=3)), $(f(div.T.Width))")
     print(io, "T:")
     show(io, media, div.T)
 end

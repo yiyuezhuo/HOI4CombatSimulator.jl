@@ -1,12 +1,12 @@
-module quick
-#=
+"""
 Usage:
 
 using HOI4CombatSimulator
 HOI4CombatSimulator.quick.init()
 using HOI4CombatSimulator.quick: Infantry, Artillery, Tank, Motor, SPA, 
     inf7art2, inf10, tank5mot2spa2, div72, div10, div522
-=#
+"""
+module quick
 
 using ..HOI4CombatSimulator: get_unit_list, DivisionTemplate, Division
 
@@ -24,7 +24,7 @@ function init()
 
     # common 20 width template
     global inf7art2 = DivisionTemplate((Infantry, 7), (Artillery, 2))
-    global inf10 = DivisionTemplate((Infantry, 2))
+    global inf10 = DivisionTemplate((Infantry, 10))
     global tank5mot2spa2 = DivisionTemplate((Tank, 5), (Motor, 2), (SPA, 2))
 
     # quick Division example

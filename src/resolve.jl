@@ -17,15 +17,6 @@ function fire(;evade, HPPercent, ShooterHardAtk, ShooterSoftAtk, VictimHardness,
 
     hit = sum(rand(fire_heavy) .< 0.4) + sum(rand(fire_light) .< 0.1)
 
-    #=
-    # Does HP and Org loss roll dices independently? I don't know...
-    HP_dice = hit * 2
-    if ShooterArmor > VictimPierce
-        Org_dice = hit * 6
-    else
-        Org_dice = hit * 4
-    end
-    =#
     HP_dice_size = 2
     if ShooterArmor > VictimPierce
         Org_dice_size = 6
@@ -48,14 +39,18 @@ function fire(;evade, HPPercent, ShooterHardAtk, ShooterSoftAtk, VictimHardness,
     return HP_loss, Org_loss
 end
 
+"""
+shooter == attacker, victim == defender in wiki jargon, but I prefer to not use words atk/def
+since they make confusion with "region" attacker and defender, which is indicated by victim_pos.
+victim ∈ :attacker, :defender
+"""
 function fire(shooter::Division, victim::Division, victim_pos::Symbol)
-    # shooter == attacker, victim == defender in wiki jargon, but I prefer to not use words atk/def
-    # since they make confusion with "region" attacker and defender, which is indicated by victim_pos.
-    # victim ∈ :attacker, :defender
     if victim_pos == :attacker
         evade = victim.T.Breakthr
-    else
+    elseif victim_pos == :defender
         evade = victim.T.Defense
+    else
+        error("Unknown victim_pos")
     end
 
     HPPercent = shooter.HP / shooter.T.HP
@@ -67,7 +62,25 @@ function fire(shooter::Division, victim::Division, victim_pos::Symbol)
 end
 
 function fire!(shooter::Division, victim::Division, victim_pos::Symbol)
-    HP_loss, Org_loss = fire(shooter, victim. victim_pos)
+    HP_loss, Org_loss = fire(shooter, victim, victim_pos)
     victim.HP = max(victim.HP - HP_loss, 0)
     victim.Org = max(victim.Org - Org_loss, 0)
 end
+
+"Used to test only, real game resolve damage in meantime."
+function duel(div_atk::Division, div_def::Division)
+    HP_atk = [div_atk.HP]
+    HP_def = [div_def.HP]
+    Org_atk = [div_atk.Org]
+    Org_def = [div_def.Org]
+    while !defeated(div_atk) && !defeated(div_def)
+        fire!(div_def, div_atk, :defender)
+        fire!(div_atk, div_def, :attacker)
+        push!(HP_atk, div_atk.HP)
+        push!(HP_def, div_def.HP)
+        push!(Org_atk, div_atk.Org)
+        push!(Org_def, div_def.Org)
+    end
+    return (HP_atk=HP_atk, HP_def=HP_def, Org_atk=Org_atk, Org_def=Org_def)
+end
+

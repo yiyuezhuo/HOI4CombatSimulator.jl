@@ -39,4 +39,28 @@ end
         tol = (std(Org_loss_arr) / sqrt(1000))*5 # 5 sigma
         @test  diff < tol 
     end
+
+    @testset "conv" begin
+        x = HOI4CombatSimulator.Inference.fast_conv(ones(2)/2, 2)
+        @test maximum(abs.(x .- [0.25, 0.5, 0.25])) < 1e-6
+    end
+
+    @testset "DiceSumDistribution" begin
+        d6x2 = HOI4CombatSimulator.Inference.dice_sum_distribution(6, 2)
+        @test d6x2.support[1] == 2
+        @test d6x2.support[end] == 12
+        @test length(d6x2.support) == 11
+        @test d6x2.p[1] == 1/36
+
+        d6x4 = HOI4CombatSimulator.Inference.dice_sum_distribution(6, 4)
+        @test d6x4.p[end] == (1/6)^4
+        @test abs(sum(d6x4.p)- 1.) < 1e-6
+    end
+
+    @testset "prob_fire_loss" begin
+        HP_loss_p, Org_loss_p = HOI4CombatSimulator.Inference.prob_fire(104.0, 160.0, 6)
+        @test length(HP_loss_p) > 1
+        @test length(Org_loss_p) > 1
+        # TODO: detailed test
+    end
 end
