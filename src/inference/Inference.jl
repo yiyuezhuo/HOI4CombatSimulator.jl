@@ -65,11 +65,8 @@ function prob_fire(firepower::Real, evade::Real, Org_cons::Int)
     hit_p = zeros(max_hit+1) # denote prob for 0,1,...,max_hit
 
     for (hx, lx, p) in zip(fire_heavy_x, fire_light_x, fire_hl_p)
-        #hit_arr = zeros(max_hit)
-        #global ha, la, pp
         ha = fast_conv([0.6, 0.4], hx)
         la = fast_conv([0.9, 0.1], lx)
-        #hit_arr[hx:(hx+)]
         pp = conv(ha, la)
         hit_p[1:length(pp)] += pp * p
     end
@@ -79,11 +76,14 @@ function prob_fire(firepower::Real, evade::Real, Org_cons::Int)
     HP_base_p = ones(2) / 2
     Org_base_p = ones(Org_cons) / Org_cons
     
-    HP_loss_p = zeros(max_hit*2+1) # denote HP loss for 0, 1, ..., max_hit*2
-    Org_loss_p = zeros(max_hit*Org_cons+1) # denote Org loss for 0, 1, ..., max_hit*Org_cons
+    #HP_loss_p = zeros(max_hit*2+1) # denote HP loss for 0, 1, ..., max_hit*2
+    #Org_loss_p = zeros(max_hit*Org_cons+1) # denote Org loss for 0, 1, ..., max_hit*Org_cons
     
-    HP_loss_p[1] = hit_p[1]
-    Org_loss_p[1] = hit_p[1]
+    #HP_loss_p[1] = hit_p[1]
+    #Org_loss_p[1] = hit_p[1]
+
+    HP_Org_loss_mat = zeros(max_hit*2+1, max_hit*Org_cons+1)
+    HP_Org_loss_mat[1, 1] = hit_p[1]
     
     HP_p = [1.]
     Org_p = [1.]
@@ -91,12 +91,17 @@ function prob_fire(firepower::Real, evade::Real, Org_cons::Int)
     for (hit, p) in enumerate(hit_p[2:end])
         HP_p = conv(HP_p, HP_base_p)
         Org_p = conv(Org_p, Org_base_p)
-    
-        HP_loss_p[hit+1:length(HP_p)+hit] += HP_p * p
-        Org_loss_p[hit+1:length(Org_p)+hit] += Org_p * p
+
+        # marginal
+        #HP_loss_p[hit+1:length(HP_p)+hit] += HP_p * p
+        #Org_loss_p[hit+1:length(Org_p)+hit] += Org_p * p
+
+        HP_Org_loss_mat[hit+1:length(HP_p)+hit, hit+1:length(Org_p)+hit] += HP_p .* Org_p' * p
+
     end
 
-    return HP_loss_p, Org_loss_p
+    #return HP_loss_p, Org_loss_p
+    return HP_Org_loss_mat
 end
 
 

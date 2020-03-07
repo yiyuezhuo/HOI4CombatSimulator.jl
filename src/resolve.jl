@@ -40,9 +40,13 @@ function fire(;evade, HPPercent, ShooterHardAtk, ShooterSoftAtk, VictimHardness,
 end
 
 """
+    fire(shooter, victin, victim_pos)
+
 shooter == attacker, victim == defender in wiki jargon, but I prefer to not use words atk/def
 since they make confusion with "region" attacker and defender, which is indicated by victim_pos.
 victim ∈ :attacker, :defender
+
+Note: I misunderstood the last argument as shooter_pos many times! -_-
 """
 function fire(shooter::Division, victim::Division, victim_pos::Symbol)
     if victim_pos == :attacker

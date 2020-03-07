@@ -50,7 +50,7 @@ end
         @test d6x2.support[1] == 2
         @test d6x2.support[end] == 12
         @test length(d6x2.support) == 11
-        @test d6x2.p[1] == 1/36
+        @test abs(d6x2.p[1] - 1/36) < 1e-6
 
         d6x4 = HOI4CombatSimulator.Inference.dice_sum_distribution(6, 4)
         @test d6x4.p[end] == (1/6)^4
@@ -58,9 +58,9 @@ end
     end
 
     @testset "prob_fire_loss" begin
-        HP_loss_p, Org_loss_p = HOI4CombatSimulator.Inference.prob_fire(104.0, 160.0, 6)
-        @test length(HP_loss_p) > 1
-        @test length(Org_loss_p) > 1
+        HP_Org_loss_mat = HOI4CombatSimulator.Inference.prob_fire(104.0, 160.0, 6)
+        @test size(HP_Org_loss_mat, 1) > 1
+        @test size(HP_Org_loss_mat, 2) > 1
         # TODO: detailed test
     end
 end
